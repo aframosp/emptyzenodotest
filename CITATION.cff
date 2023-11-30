@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Ramos Padilla "
+  given-names: "Andres Felipe"
+  orcid: "https://orcid.org/0000-0002-4561-2452"
+title: "emptyzenodotest"
+version: 0.0.3
+doi: 10.82290/RIVM_SOFT_0001
+date-released: 2023-11-30
+url: "https://github.com/aframosp/emptyzenodotest"
