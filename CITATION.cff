@@ -1,11 +1,35 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+title: Empty code repository
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
 authors:
-- family-names: "Ramos Padilla "
-  given-names: "Andres Felipe"
-  orcid: "https://orcid.org/0000-0002-4561-2452"
-title: "emptyzenodotest"
+  - given-names: Andres Felipe
+    family-names: Ramos Padilla
+    email: andres.ramos.padilla@rivm.nl
+    affiliation: >-
+      National Institute for Public Health and the
+      Environment
+    orcid: 'https://orcid.org/0000-0002-4561-2452'
+  - given-names: Jan
+    family-names: Janssen
+    affiliation: >-
+      National Institute for Public Health and the
+      Environment
+identifiers:
+  - type: doi
+    value: 10.1234/fake.doi.123
+    description: >-
+      Fake DOI assuming this will be replaced after
+      submission
+repository-code: 'https://github.com/aframosp/emptyzenodotest'
+url: 'https://github.com/aframosp/emptyzenodotest'
+abstract: Describe the repository here
+keywords:
+  - test
+  - zenodo
+  - code
+license: EUPL-1.2
 version: 0.0.3
-doi: 10.82290/RIVM_SOFT_0001
-date-released: 2023-11-30
-url: "https://github.com/aframosp/emptyzenodotest"
+date-released: '2023-12-19'
